@@ -1,5 +1,5 @@
 const API_KEY =
-  "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";
+  "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";
   const exchangeRates = {
     USD: 1,
     INR: 83,
